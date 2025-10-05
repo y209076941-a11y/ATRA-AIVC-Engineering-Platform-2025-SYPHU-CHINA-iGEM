@@ -721,4 +721,5 @@ st.markdown("""
                     font-size: 0.9rem; color: #255A3B;">🔬 Open Science • 🤝 Collaboration • 💡 Innovation</span>
     </div>
 </div>
+
 """, unsafe_allow_html=True)
